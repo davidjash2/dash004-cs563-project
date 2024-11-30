@@ -39,3 +39,7 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+
+gem "hotwire-rails", "~> 0.1.3"
+gem "turbo-rails"
+gem "redis", "~> 4.0"
